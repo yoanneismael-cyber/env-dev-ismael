@@ -31,3 +31,7 @@ Environnement de développement de OUATTARA YOANN B1 DEV, IFRAN.
 | nano     | 8.7.1   | `sudo apt install -y nano`                          |
 | Node.js  | 22.22.1 | dépôt NodeSource, puis `sudo apt install -y nodejs` |
 | npm      | 9.2.0   | installé avec Node.js                               |
+
+## Historique
+
+Ce dossier est suivi avec Git depuis le sous-module 2.
