@@ -14,3 +14,10 @@
 | `cp`     | Copie un fichier | `cp a.txt b.txt` |
 
 ## Lire et chercher
+
+## BRANCHES
+
+| Commande     | Ce qu'elle fait                                  | Exemple          |
+| ------------ | ------------------------------------------------ | ---------------- |
+| `git branch` | liste les branches de mon depot                  | `cp a.txt b.txt` |
+| `git switch` | cree une nouvelle branch et se positionne dessus | `cp a.txt b.txt` |
