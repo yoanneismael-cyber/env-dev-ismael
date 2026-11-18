@@ -9,9 +9,13 @@
 
 ## Fichiers et dossiers
 
-| Commande | Ce qu'elle fait  | Exemple          |
-| -------- | ---------------- | ---------------- |
-| `cp`     | Copie un fichier | `cp a.txt b.txt` |
+| Commande | Ce qu'elle fait                    | Exemple          |
+| -------- | ---------------------------------- | ---------------- |
+| `cp`     | Copie un fichier                   | `cp a.txt b.txt` |
+| `mkdir`  | Creer un dossier                   | `mkdir photo`    |
+| `ls`     | affiche ;les fichiers d'un dossier | `ls`             |
+| ``       | Copie un fichier                   | `cp a.txt b.txt` |
+| ``       | Copie un fichier                   | `cp a.txt b.txt` |
 
 ## Lire et chercher
 
