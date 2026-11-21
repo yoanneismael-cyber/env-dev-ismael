@@ -23,3 +23,4 @@
 - **Décision :** Utiliser VS Code.
 - **Autres possibilités :** Notepad++, Vim, Sublime Text.
 - **Raison :** VS Code s'intègre nativement à WSL, dispose d'un terminal intégré et gère très bien le Markdown et Git.
+Version B
