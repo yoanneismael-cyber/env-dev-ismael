@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo "=== Installation des outils dans Ubuntu ==="
 sudo apt update
 sudo apt install -y git tree htop nano iputils-ping dnsutils
