@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-
 # env-dev-ismael - Mon environnement de développement (B1 DEV, IFRAN)
 
 =======
 
 # env-dev-ismael - Mon environnement de développement 
-
-> > > > > > > titre-readme
 
 Environnement de développement de OUATTARA YOANN B1 DEV, IFRAN.
 
