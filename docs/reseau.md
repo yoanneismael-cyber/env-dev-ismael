@@ -42,3 +42,28 @@ Quand je tape `https://github.com` dans mon navigateur :
 | 301  | Moved Permanently     | …                  | …                   |
 | 404  | Not Found             | …                  | …                   |
 | 500  | Internal Server Error | …                  | (pas vu)            |
+
+## Les ports
+
+| Port | Service | Exemple d'URL |
+| ---- | ------- | ------------- |
+| 80   | …       | …             |
+| 443  | …       | …             |
+| 8000 | …       | …             |
+
+## Diagnostiquer une erreur
+
+Les 4 questions, dans l'ordre :
+
+1. Le nom est-il trouvé ? → `nslookup <nom>`
+2. …
+3. …
+4. …
+
+### Exemple : une panne que j'ai réparée
+
+- **Symptôme :** …
+- **Étape :** …
+- **Cause :** …
+- **Correction :** …
+- **Vérification :** …
